@@ -1,3 +1,29 @@
+# My Changes
+
+
+**NOTE:** Current version: 7.11.1
+- It also works if VPN is enabled.
+- Added mini project (Node.js) to make requests via TCP or HTTP.
+
+
+### host:port 
+- Elasticsearch: [localhost:9200](localhost:9200)
+- Logstash: [localhost:5044](localhost:5044), [localhost:5000](localhost:5000) (TCP), [localhost:8080](localhost:8080) (HTTP). 
+- Kibana: [localhost:5601](localhost:5601)
+
+
+### Login: 
+- username: elastic
+- password: changeme
+
+
+### Commands:
+- Create and start containers: `docker-compose up -d`
+- Stop services: `docker-compose stop`
+- Start services: `docker-compose start`
+- List containers: `docker-compose ps`
+- Stop and remove containers, networks, images, and volumes: `docker-compose down`
+
 # Elastic stack (ELK) on Docker
 
 [![Elastic Stack version](https://img.shields.io/badge/Elastic%20Stack-7.11.1-00bfb3?style=flat&logo=elastic-stack)](https://www.elastic.co/blog/category/releases)

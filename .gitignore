@@ -1,0 +1,3 @@
+logstash-sender/.vscode
+logstash-sender/node_modules
+logstash-sender/package-lock.json
