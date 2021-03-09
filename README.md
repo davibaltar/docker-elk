@@ -7,9 +7,9 @@
 
 
 ### host:port 
-- Elasticsearch: [localhost:9200](localhost:9200)
-- Logstash: [localhost:5044](localhost:5044), [localhost:5000](localhost:5000) (TCP), [localhost:8080](localhost:8080) (HTTP). 
-- Kibana: [localhost:5601](localhost:5601)
+- Elasticsearch: [localhost:9200](http://localhost:9200)
+- Logstash: [localhost:5044](http://localhost:5044), [localhost:5000](http://localhost:5000) (TCP), [localhost:8080](http://localhost:8080) (HTTP). 
+- Kibana: [localhost:5601](http://localhost:5601)
 
 
 ### Login: 
